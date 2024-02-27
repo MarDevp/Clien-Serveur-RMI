@@ -1,4 +1,4 @@
--Le serveur RMI implémente une interface qui étend java.rmi.Remote et doit déclarer une exception RemoteException.
+-Le serveur RMI implémente une interface qui étend java.rmi.Remote et déclare une exception RemoteException.
 
 -La méthode convertirChaine est définie dans l’interface et est implémentée dans le serveur RMI.
 
