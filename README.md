@@ -6,6 +6,7 @@
 
 -Le client RMI recherche le serveur RMI dans le registre RMI à l’aide de Naming.lookup() et appelle la méthode convertirChaine.
 
+
 Génération de souches (stubs) :
 
  -Il n’est pas nécessaire de générer les souches (stubs) manuellement car dans les versions récentes de Java (Java 5 et ultérieures), elles sont générées automatiquement.
